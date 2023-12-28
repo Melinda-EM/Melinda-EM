@@ -13,7 +13,7 @@ Etudiante en Développement Web à la Web@cadémie by Epitech.
 
 🌱 J'aime apprendre de nouvelles choses, me tenir informé sur les dernières technologies.
 
-📫 Vous pouvez prendre contact avec moi sur mon portfolio : https://melinda-esteves.com
+📫 Vous pouvez prendre contact avec moi sur mon portfolio : https://melinda-esteves.netlify.app/
 <!--
 **Melinda-EM/Melinda-EM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
