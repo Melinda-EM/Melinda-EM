@@ -31,12 +31,6 @@
 
 ---
 
-### 📊 Mes stats GitHub
-![Melinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=melindaesteves&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melindaesteves&layout=compact&theme=radical)
-
----
-
 ### ⚡ Fun badges
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=melindaesteves.melindaesteves)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Melinda-EM&theme=radical)
