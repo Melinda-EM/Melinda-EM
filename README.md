@@ -22,10 +22,10 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  🖥️  MimiStack OS                                            ║
+║  🖥️ MimiStack OS                                            ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   👋 HELLO WORLD !                                           ║
+║   ! HELLO WORLD !                                            ║
 ║                                                              ║
 ║   Utilisateur : Melinda                                      ║
 ║   Statut     : Développeuse Web                              ║
@@ -33,12 +33,12 @@
 ║   Version    : 2026                                          ║
 ║                                                              ║
 ║   > Initialisation des compétences... ██████████ 100%        ║
-║   > Chargement des projets............. ██████████ 100%       ║
-║   > Créativité........................ ██████████ 100%        ║
-║   > Front-end......................... ONLINE                 ║
-║   > Back-end.......................... ONLINE                 ║
-║   > Créativité........................ ONLINE                 ║
-║   > Curiosité......................... ONLINE                 ║
+║   > Chargement des projets............. ██████████ 100%      ║
+║   > Créativité........................ ██████████ 100%       ║
+║   > Front-end......................... ONLINE                ║
+║   > Back-end.......................... ONLINE                ║
+║   > Créativité........................ ONLINE                ║
+║   > Curiosité......................... ONLINE                ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -62,7 +62,7 @@ Je suis actuellement dans une démarche de progression continue vers le **dével
 │                              │
 │ Name      : Melinda          │
 │ Role      : Web Developer    │
-│ Level     : Constant Learning...  │
+│ Level     : Learning...      │
 │ Status    : ● Online         │
 │ Location  : France 🇫🇷        │
 │                              │
@@ -71,14 +71,14 @@ Je suis actuellement dans une démarche de progression continue vers le **dével
 
 ### 💾 Quelques informations
 
-* 💻 Développement **Front-end & Back-end**
-* 🎨 Conception d'interfaces et sensibilité **UI / UX**
-* 🧩 Résolution de problèmes et développement de fonctionnalités
-* 🚀 Création de projets personnels et expérimentations
-* 🎮 Développement de projets autour du jeu
-* 🧠 Exploration de nouvelles technologies
-* 🛠️ Transformation d'idées en projets concrets
-* 🎯 Mon objectif : continuer à évoluer vers le **Full Stack**
+* Développement **Front-end & Back-end**
+* Conception d'interfaces et sensibilité **UI / UX**
+* Résolution de problèmes et développement de fonctionnalités
+* Création de projets personnels et expérimentations
+* Développement de projets autour du jeu
+* Exploration de nouvelles technologies
+* Transformation d'idées en projets concrets
+* Mon objectif : continuer à évoluer vers le **Full Stack**
 
 ---
 
@@ -92,13 +92,13 @@ Cette passion fait aussi partie de ma façon d'aborder certains projets : **inte
 
 ```text
 ┌──────────────────────────────────────┐
-│ 🎮 PLAYER PROFILE                    │
+│ 🎮 PLAYER PROFILE                   │
 ├──────────────────────────────────────┤
 │                                      │
 │ Player       : Melinda               │
 │ Main Class   : Web Developer         │
 │ Side Quest   : Gaming                │
-│ Status       : 🎮 Online             │
+│ Status       : 🎮 Online            │
 │                                      │
 │ Favorite Activities                  │
 │                                      │
@@ -123,7 +123,7 @@ Cette passion fait aussi partie de ma façon d'aborder certains projets : **inte
 
 Et parmi les jeux qui occupent régulièrement mon temps libre :
 
-`🐾 Palworld` `🎃 Halloween` `🔫 Call of Duty` `✨ Final Fantasy` `⚔️ Fire Emblem`
+`Palworld` `Halloween` `Call of Duty` `Final Fantasy` `Fire Emblem` `Les Sims`
 
 Et ce ne sont que quelques exemples parmi les nombreux jeux auxquels je joue. 🎮
 
@@ -135,12 +135,12 @@ Et ce ne sont que quelques exemples parmi les nombreux jeux auxquels je joue. �
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                    🎮 GAME LIBRARY                            │
+│                    • GAME LIBRARY                            │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  🐾 Palworld        🎃 Halloween        🔫 Call of Duty      │
+│    • Palworld        • Halloween       • Call of Duty        │
 │                                                              │
-│  ✨ Final Fantasy   ⚔️ Fire Emblem                            │
+│    • Final Fantasy   • Fire Emblem    •  Les Sims            │
 │                                                              │
 │  > Loading game library...                                   │
 │  > Discovering new worlds...                                 │
@@ -191,6 +191,8 @@ Et ce ne sont que quelques exemples parmi les nombreux jeux auxquels je joue. �
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
 </p>
 
 ## 🗄️ Données
@@ -199,7 +201,9 @@ Et ce ne sont que quelques exemples parmi les nombreux jeux auxquels je joue. �
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </p>
 
@@ -269,11 +273,11 @@ L'objectif : proposer une expérience différente d'un portfolio classique tout 
 
 Une application mobile pensée pour réunir plusieurs outils d'organisation au même endroit :
 
-* 📅 Calendrier
-* 📝 Notes
-* 🔐 Informations sécurisées
-* ✅ Tâches
-* 🗂️ Organisation
+*  Calendrier
+*  Notes
+*  Informations sécurisées
+*  Tâches
+*  Organisation
 
 **Stack :** `React Native` `Expo` `NativeWind`
 
@@ -314,13 +318,13 @@ Je préfère apprendre en construisant : chaque projet est l'occasion de tester 
 ║                 CURRENT PROJECTS                   ║
 ╠════════════════════════════════════════════════════╣
 ║                                                    ║
-║  🖥️  MimiStack                                     ║
+║   • MimiStack                                      ║
 ║      Portfolio • UI • Animations                   ║
 ║                                                    ║
-║  📅  Seculendar                                    ║
-║      Mobile • Organisation • Sécurité             ║
+║   • Seculendar                                     ║
+║      Mobile • Organisation • Sécurité              ║
 ║                                                    ║
-║  🎮  Connect Wars                                  ║
+║   • Connect Wars                                   ║
 ║      Game • React • TypeScript                     ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
@@ -334,17 +338,12 @@ Je continue à développer mes compétences à travers mes projets, notamment au
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Melinda-EM&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A855F7&icon_color=C026D3&text_color=E9D5FF&ring_color=A855F7" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Melinda-EM&hide_border=true&background=0D0B14&ring=A855F7&fire=C026D3&currStreakLabel=A855F7&sideLabels=E9D5FF&dates=9CA3AF" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Melinda-EM&hide_border=true&background=0D0B14&ring=A855F7&fire=C026D3&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=F8FAFC&sideLabels=E9D5FF&dates=CBD5E1" />
 
 </div>
 
 <br>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melinda-EM&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A855F7&text_color=E9D5FF" />
 
 </div>
 
@@ -369,9 +368,9 @@ Je continue à développer mes compétences à travers mes projets, notamment au
 ```text
 ┌────────────────────────────────────────────┐
 │                                            │
-│   💌 Une idée ?                            │
-│   🧩 Un projet ?                           │
-│   💻 Une opportunité ?                     │
+│     • Une idée ?                           │
+│     • Un projet ?                          │
+│     • Une opportunité ?                    │
 │                                            │
 │   → N'hésite pas à venir échanger !        │
 │                                            │
