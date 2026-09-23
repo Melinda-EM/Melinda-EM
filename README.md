@@ -69,7 +69,7 @@
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio :** https://melinda-esteves.netlify.app/
+🔗 **Portfolio :** https://mimistack.fr/
 
 ---
 
